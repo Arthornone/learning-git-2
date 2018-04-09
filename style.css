@@ -1,5 +1,6 @@
-body {background-color: #39cc71;text-align:center;}
+body {background-color: #39cc71;text-align:center;color:white;}
 h1 {font-size: 50px;}
 h2{font-size: 30px;}
 p{font-size: 20px;max-width: 300px;margin:auto;padding-bottom:15px;}
 .container {width:1200px;margin:auto;}
+.header {color:blue;}
